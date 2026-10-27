@@ -1,7 +1,8 @@
-# Web de José González
+# José González · Software Architect
 
-Web estática publicada con GitHub Pages.
+Static site on GitHub Pages.
 
-- `index.html`: versión en español
-- `en/index.html`: versión en inglés
-- `cv/`: CV en PDF (español e inglés)
+- `index.html`: English (default)
+- `es/index.html`: Spanish
+- `en/`: redirect to `/` (old links)
+- `cv/`: CVs (EN and ES)
